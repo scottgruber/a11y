@@ -1,4 +1,7 @@
+
 # Web Accessibility Workshop Notes
+
+![Illustration of users with variety of disablities](https://github.com/scottgruber/a11y/blob/master/web-accessibility-notes-medium.jpg)
 
 Building in accessibility from the beginning of the design and development process improves usability for everyone.
 
