@@ -93,7 +93,7 @@ When it is not feasible to test every single page of a website you may need to f
 - Contact and help pages
 - Pages that receive the most visits and traffic identified with analytics
 
-This article was originally posted on [my personal site](https://scottgruber.me/articles/web-accessibility-workshop) and is also cross-posted on [github](https://github.com/scottgruber/a11y/blob/master/workshop-notes.md) and [medium.com](https://medium.com/@scottgruber/web-accessibility-workshop-notes-5d832f63fd01).
+This article was originally posted on [my personal site](https://scottgruber.me/articles/web-accessibility-workshop-notes) and is also cross-posted on [github](https://github.com/scottgruber/a11y/blob/master/workshop-notes.md) and [medium.com](https://medium.com/@scottgruber/web-accessibility-workshop-notes-5d832f63fd01).
 
 
 
