@@ -4,7 +4,6 @@ Building in accessibility from the beginning of the design and development proce
 
 Here are some resources and tools that helped me learn more about Web Accessibility and the fantastic community of writers, designers and developers working on this topic. I prepared these notes for a workshop I led at UCLA. I hope it helps you explore this important field of study.
 
-
 ## Resources
 
 ### Books
@@ -53,6 +52,7 @@ Here are some resources and tools that helped me learn more about Web Accessibil
 
 ### Webinars
 - [Creating Accessible PDFs](https://www.lynda.com/Acrobat-tutorials/Creating-Accessible-PDFs/669540-2.html?es_sh=b79e15e3a3caee6673ea262eb4659e22&es_ad=50312) on lynda.com
+
 ### Tools
 - [Google lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - [aXe Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/?src=collection) by Deque Labs
@@ -80,7 +80,7 @@ Content and interaction elements should be tested for accessibility in accordanc
 
 **Is JavaScript required in WCAG?**
 - WCAG 2 does not prevent you from using or relying on JavaScript.
-	- [no statement](http://lists.w3.org/Archives/Public/w3c-wai-ig/2012OctDec/0223.html)
+	- [No statement](http://lists.w3.org/Archives/Public/w3c-wai-ig/2012OctDec/0223.html)
 	- [But about 1.1% of users don’t have JavaScript](https://stackoverflow.com/questions/21235312/accessibility-and-using-javascript)
 
 ## Manual testing
