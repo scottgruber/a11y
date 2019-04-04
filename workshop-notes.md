@@ -9,6 +9,15 @@ Here are some resources and tools that helped me learn more about Web Accessibil
 
 ## Resources
 
+## WCAG Web content accessibility guidelines 
+
+Content and interaction elements should be tested for accessibility in accordance to the WCAG 2.0 AA (the standard for UC) guidelines and success criteria. 
+- [WCAG Web Accessibility Initiative](https://www.w3.org/WAI/)
+- [How to meet WCAG 2 (Quick reference)](https://www.w3.org/WAI/WCAG20/quickref/)
+- [WCAG Web content accessibility guidelines](https://www.w3.org/TR/WCAG/)
+- [W3C Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/)
+- [WCAG Myths](https://www.w3.org/WAI/GL/wiki/WCAG_Myths)
+
 ### Books
 - [Design for Real Life](https://abookapart.com/products/design-for-real-life) by Eric Meyer and Sara Wachter-Boettcher
 - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) by Laura Kalbag
@@ -64,14 +73,6 @@ Here are some resources and tools that helped me learn more about Web Accessibil
 - [WAVE accessibility tools](http://wave.webaim.org/)
 - [Color contrast checker](https://webaim.org/resources/contrastchecker/)
 - [NVDA (Non-visual Desktop Access)](http://www.nvda-project.org/) is a free and open-source screen reader for the Microsoft Windows operating system
-
-## WCAG Web content accessibility guidelines 
-
-Content and interaction elements should be tested for accessibility in accordance to the WCAG 2.0 AA (the standard for UC) guidelines and success criteria. 
-- [How to meet WCAG 2 (Quick reference)](https://www.w3.org/WAI/WCAG20/quickref/)
-- [WCAG Web content accessibility guidelines](https://www.w3.org/TR/WCAG/)
-- [W3C Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/)
-- [WCAG Myths](https://www.w3.org/WAI/GL/wiki/WCAG_Myths)
 
 
 ## Color contrast
